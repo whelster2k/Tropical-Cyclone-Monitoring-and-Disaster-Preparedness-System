@@ -1,0 +1,23 @@
+{
+  "name": "tropical-cyclone-monitoring",
+  "version": "1.0.0",
+  "description": "Tropical Cyclone Monitoring and Disaster Preparedness System",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^10.16.4",
+    "leaflet": "^1.9.4",
+    "chart.js": "^4.4.0",
+    "@tailwindcss/forms": "^0.5.6",
+    "axios": "^1.5.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.29",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.9"
+  }
+}
